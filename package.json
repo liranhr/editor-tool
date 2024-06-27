@@ -1,6 +1,6 @@
 {
   "name": "editor-tool",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Editor for a text",
   "main": "index.js",
   "scripts": {
