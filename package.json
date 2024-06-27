@@ -1,0 +1,25 @@
+{
+  "name": "editor-tool",
+  "version": "1.0.1",
+  "description": "Editor for a text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liranhr/editor-tool.git"
+  },
+  "keywords": [
+    "EFT"
+  ],
+  "author": "Liran Hersh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liranhr/editor-tool/issues"
+  },
+  "homepage": "https://github.com/liranhr/editor-tool#readme",
+  "dependencies": {
+    "vue": "^3.4.30"
+  }
+}
