@@ -1,7 +1,7 @@
 import MyComponent from './components/MyComponent.vue';
-import Button from './components/Button.vue';
+import EditToolButton from './components/EditToolButton.vue';
 
 export { 
   MyComponent,
-  Button
+  EditToolButton
  };
